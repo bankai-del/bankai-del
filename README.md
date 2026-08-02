@@ -2,20 +2,11 @@
 
 <img src="assets/abbys.gif" height="80%" width="100%">
 
-# 👋 Welcome, Traveler<img src="assets/silksongFlea.gif" height="60" style="vertical-align: middle;">
+# 👋 Welcome, Traveler<img src="assets/silksongFlea.gif" height="30" style="vertical-align: middle;">
 
 </div>
 
 ---
-
-<div align="center">
-
-<h1>
-  👋 Welcome, Traveler
-  <img src="assets/silksongFlea.gif" height="60" style="vertical-align: middle;">
-</h1>
-
-</div>
 
 <img align="right" width="220" src="assets/knightPixel.gif"/>
 
