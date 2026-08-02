@@ -2,7 +2,7 @@
 
 <img src="assets/abbys.gif" height="80%" width="100%">
 
-# 👋 Welcome, Traveler
+# 👋 Welcome, Traveler<img src="assets/silksongFlea.gif" height="60" style="vertical-align: middle;">
 
 </div>
 
@@ -65,26 +65,6 @@ Hi, I'm **Amine TN**.
 📺 Anime
 
 ☕ Learning something new every day.
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bankai-del&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bankai-del&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bankai-del&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
