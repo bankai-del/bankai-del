@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hollow-knight-echo-of-shadows.1920x1080.gif" width="100%">
+<img src="assets/abbys.gif" width="100%">
 
 # 👋 Welcome, Traveler
 
@@ -13,7 +13,7 @@
 
 # 🌙 About Me
 
-<img align="right" width="240" src="assets/knightPixel.gif"/>
+<img align="right" width="230" src="assets/knightPixel.gif"/>
 
 Hi, I'm **Amine TN**.
 
