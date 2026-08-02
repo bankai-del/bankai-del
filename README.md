@@ -63,8 +63,8 @@ Hi, I'm **Amine TN**.
 
 # 🎮 Beyond Coding
 
-<div align="center">
 <img align="right" height="120" width="" src="assets/knightAndHornet.gif"/>
+<div align="center">
 
 🏋️ **Gym**  
 🎮 **Gaming**  
