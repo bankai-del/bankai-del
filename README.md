@@ -22,7 +22,7 @@
 
 # <img src="assets/silksongFlea.gif" height="40"> About Me
 
-<img align="right" width="230" src="assets/knightPixel.gif"/>
+<img align="right" width="240" src="assets/knightPixel.gif"/>
 
 Hi, I'm **Amine TN**.
 
@@ -64,6 +64,7 @@ Hi, I'm **Amine TN**.
 # 🎮 Beyond Coding
 
 <div align="center">
+<img align="right" height="130" width="" src="assets/knightAndHornet.gif"/>
 
 🏋️ **Gym**  
 🎮 **Gaming**  
