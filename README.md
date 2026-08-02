@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="assets/abbys.gif" width="100%">
+<img src="assets/abbys.gif" height="80%" width="100%">
 
 # 👋 Welcome, Traveler
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA8FF&center=true&vCenter=true&width=700&lines=Student+at+ENSA+Agadir;Second+Year+Cycle+Préparatoire;Learning+C%2B%2B;Linux+Enthusiast;Future+Software+Engineer" />
 
 </div>
 
 ---
 
+<div align="center">
 
-# 🌙 About Me
+<h1>
+  👋 Welcome, Traveler
+  <img src="assets/silksongFlea.gif" height="60" style="vertical-align: middle;">
+</h1>
 
-<img align="right" width="230" src="assets/knightPixel.gif"/>
+</div>
+
+<img align="right" width="220" src="assets/knightPixel.gif"/>
 
 Hi, I'm **Amine TN**.
 
