@@ -1,27 +1,43 @@
 <div align="center">
 
-<img src="assets/abbys.gif" height="80%" width="100%">
+<img src="assets/abbys.gif" width="100%" height="auto">
 
-# 👋 Welcome, Traveler<img src="assets/silksongFlea.gif" height="30" style="vertical-align: middle;">
+<br>
+
+<h1>
+  👋 Welcome, Traveler
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA8FF&center=true&vCenter=true&width=600&lines=Amine+TN;ENSA+Agadir+Student;C%2B%2B+Learner;Linux+Enthusiast;Future+Software+Engineer">
+
+<br>
+
+<h3>
+<i>"No cost too great."</i>
+</h3>
 
 </div>
 
 ---
 
-<img align="right" width="220" src="assets/knightPixel.gif"/>
+# <img src="assets/silksongFlea.gif" height="40"> About Me
+
+<img align="right" width="230" src="assets/knightPixel.gif"/>
 
 Hi, I'm **Amine TN**.
 
 🎓 Second-year student at **ENSA Agadir** in the **Cycle Préparatoire**.
 
-💻 I enjoy solving programming problems, building projects, and continuously improving my skills.
+💻 I enjoy solving programming problems, exploring new technologies, and improving my development skills.
 
-🌱 Currently focusing on:
+🌱 Currently learning:
 
-- C++
-- Data Structures & Algorithms
-- Linux
-- Git
+- ⚔️ C++
+- 🧩 Data Structures & Algorithms
+- 🐧 Linux
+- 🔧 Git
+
+<br clear="right"/>
 
 ---
 
@@ -35,11 +51,11 @@ Hi, I'm **Amine TN**.
 
 ---
 
-# 🛠 Technologies
+# 🛠 Tools & Environment
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,linux,windows,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,linux,windows,vscode,neovim,arch,kali,obsidian,mysql"/>
 
 </p>
 
@@ -47,22 +63,21 @@ Hi, I'm **Amine TN**.
 
 # 🎮 Beyond Coding
 
-🏋️ Gym
+<div align="center">
 
-🎮 Gaming
+🏋️ **Gym**  
+🎮 **Gaming**  
+🌌 **Hollow Knight**  
+📺 **Anime**  
+☕ **Learning something new every day**
 
-🌌 Hollow Knight
-
-📺 Anime
-
-☕ Learning something new every day.
+</div>
 
 ---
 
 <div align="center">
 
-> *"No cost too great."*
-
-⭐ Thanks for visiting my profile.
+ <img width="40" src="assets/hollow-knight-icegif-14.gif" style="transform: scaleX(-1);"/><br>
+ Thanks for visiting my profile.
 
 </div>
